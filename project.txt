@@ -2,3 +2,4 @@ Remote repository demo project
 Initial version
 
 Local update before remote change.
+This line was added remotely.
